@@ -1,6 +1,6 @@
 ---
 title: SuriCon 2018 - Beyond Operational Intelligence&#58; Splunk Advanced Analytics
-tags: MachineLearning Security DataScience Splunk Suricata Mirai
+tags: MachineLearning Security DataScience Splunk Suricata Mirai Conference Video
 
 ---
 

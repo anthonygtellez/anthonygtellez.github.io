@@ -1,6 +1,6 @@
 ---
 title: .Conf17 - Everyone Can Build A Security App
-tags: MachineLearning Security DataScience Splunk
+tags: MachineLearning Security DataScience Splunk Conference
 
 ---
 

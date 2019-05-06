@@ -1,6 +1,6 @@
 ---
 title: SuriCon 2016 - Applying Data Science to Suricata
-tags: MachineLearning Security DataScience Splunk Suricata Mirai
+tags: MachineLearning Security DataScience Splunk Suricata Mirai Conference
 
 ---
 

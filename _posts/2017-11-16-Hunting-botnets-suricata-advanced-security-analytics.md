@@ -1,6 +1,6 @@
 ---
 title: SuriCon 2017 - Hunting BotNets&#58; Suricata Advanced Security Analytics
-tags: MachineLearning Security DataScience Splunk Suricata Mirai
+tags: MachineLearning Security DataScience Splunk Suricata Mirai Conference 
 
 ---
 

@@ -8,5 +8,5 @@ header:
     url: /about.html
 
   - titles:
-      en      : &EN       Confrence Presentations
+      en      : &EN       Conference Presentations
     url: /presentations.html

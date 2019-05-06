@@ -1,6 +1,6 @@
 ---
 title: .Conf16 - Turning Security Use Cases into SPL
-tags: MachineLearning Security DataScience Splunk
+tags: MachineLearning Security DataScience Splunk Conference Video
 
 ---
 

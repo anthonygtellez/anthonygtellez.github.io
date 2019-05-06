@@ -1,6 +1,6 @@
 ---
 title: .Conf16 - Anomaly Hunting with Splunk Software
-tags: MachineLearning Security DataScience Splunk
+tags: MachineLearning Security DataScience Splunk Conference Video
 
 ---
 
