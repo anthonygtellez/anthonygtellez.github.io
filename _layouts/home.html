@@ -23,7 +23,12 @@ articles:
   show_excerpt: true
   show_readmore: true
   show_info: true
+  city: San Francisco
 ---
+
+<p>{{ layout.city }}</p>
+
+{{ content }}
 <div class="layout--home">
   {%- include paginator.html -%}
 </div>
