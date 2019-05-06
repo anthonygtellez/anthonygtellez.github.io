@@ -48,12 +48,12 @@ A personal website to aggregate public presentations, blog posts in the domains 
         "pointHoverBorderColor": "rgba(255,99,132,1)",
         "data": [
           90,
-          80,
+          50,
           100,
           80,
           96,
           98,
-          80
+          60
         ]
       }
     ]
