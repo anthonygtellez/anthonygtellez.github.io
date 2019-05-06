@@ -3,7 +3,7 @@ layout: articles
 title: My Confrence Presentations
 show_title: false
 articles:
-  data_source: site.posts
+  data_source: site.blog
   article_type: BlogPosting
   show_cover: false
   show_excerpt: true
