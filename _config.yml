@@ -223,3 +223,11 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jemoji
+
+## => Collections 
+##############################
+collections:
+  conferences: 
+    output: true
+  blogs: 
+    output: true

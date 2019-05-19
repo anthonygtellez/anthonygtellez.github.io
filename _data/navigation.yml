@@ -1,7 +1,4 @@
 header:
-  - titles:
-      en      : &EN       Archive
-    url: /archive.html
 
   - titles:
       en      : &EN       Resume
@@ -10,3 +7,11 @@ header:
   - titles:
       en      : &EN       Conference Presentations
     url: /presentations.html
+
+  - titles:
+      en      : &EN       Blogs
+    url: /blogs.html
+    
+  - titles:
+      en      : &EN       Archive
+    url: /archive.html

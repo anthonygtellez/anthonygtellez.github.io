@@ -1,9 +1,9 @@
 ---
 layout: articles
-title: My Conference Presentations
+title: My Blog Posts
 show_title: false
 articles:
-  data_source: conferences
+  data_source: site.posts
   article_type: BlogPosting
   show_cover: false
   show_excerpt: true
