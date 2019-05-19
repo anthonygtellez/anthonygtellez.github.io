@@ -1,7 +1,7 @@
 ---
 layout: article
 mode: immersive
-title:  Machine Learning, Cyber Security  & Cloud Ops.
+title:  Gaussian noise and elliptical curves of mass destruction
 subtitle:  Testing
 header:
   theme: dark

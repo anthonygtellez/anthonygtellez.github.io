@@ -16,11 +16,12 @@ titles:
   ko      : &KO       아카이브
   ko-KR   : *KO
 ---
-
+{%- assign all_content = site.posts | concat site.conferences -%}
+{{ all_content | join: ", " }}
 <div class="layout--archive js-all">
   {%- include tags.html -%}
   <div class="js-result layout--archive__result d-none">
-    {%- include article-list.html articles=site.posts type='brief' show_info=true reverse=true group_by='year' -%}
+    {%- include article-list.html articles=all_content type='brief' show_info=true reverse=true group_by='year' -%}
   </div>
 </div>
 
