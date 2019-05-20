@@ -11,7 +11,7 @@ article_header:
   background_color: '#203028'
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
-    src: http://tellez.sfo2.digitaloceanspaces.com/earth-nasa-hero.jpg
+    src: http://tellez.sfo2.digitaloceanspaces.com/john_snow_tokyo_tellez_bio.jpg
 ---
 
 ### Anthony G. Tellez
@@ -60,17 +60,4 @@ A personal website to aggregate public presentations, blog posts in the domains 
   },
   "options": {}
 }
-```
-
-```mermaid
-graph TD
-A[Data] --> |Split Data| B(Testing Dataset)
-A[Data] --> |Split Data| C(Training Dataset)
-B --> D(Algorithm)
-C --> E(Evaluation)
-D --> E(Evaluation)
-E --> F(Model) 
-F --> G(Prediction)
-H(Production Data) --> F(Model)
-
 ```
