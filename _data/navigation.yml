@@ -1,17 +1,18 @@
 header:
 
   - titles:
+      en      : &EN       Recent Updates
+    url: /blogs.html
+
+  - titles:
       en      : &EN       Resume
     url: /about.html
 
   - titles:
       en      : &EN       Conference Presentations
-    url: /presentations.html
+    url: /presentations.html?tag=Conference
 
   - titles:
       en      : &EN       Blogs
-    url: /blogs.html
+    url: /archive.html?tag=Blogs
     
-  - titles:
-      en      : &EN       Archive
-    url: /archive.html

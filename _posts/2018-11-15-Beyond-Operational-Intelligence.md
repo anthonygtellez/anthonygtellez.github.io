@@ -3,6 +3,7 @@ title: SuriCon 2018 - Beyond Operational Intelligence&#58; Splunk Advanced Analy
 tags: MachineLearning Security DataScience Splunk Suricata Mirai Conference Video
 layout: article
 mathjax: true
+date: 2018-11-15
 ---
 
 Prescriptive analytics is often referred to as the "final frontier of analytic capabilities", many organizations strive to get there and fail. Evolving from reactive to prescriptive is key for organizations maintain their competitive advantage. So what does this journey look like when organizations embrace an analytics nerve center for security operations? In this session, we will review the advanced analytics maturity model: covering the various stages organizations go through on their journey to analytics-driven decision making. The focus of this journey will be tailored around utilizing Machine Learning to respond to security incidents and automating remediation.

@@ -2,7 +2,6 @@
 layout: article
 mode: immersive
 title:  Gaussian noise and elliptical curves of mass destruction
-subtitle:  Testing
 header:
   theme: dark
 article_header:
@@ -24,7 +23,7 @@ A personal website to aggregate public presentations, blog posts in the domains 
 ### Interests
 
 
-```chart
+``` chart
 {
   "type": "radar",
   "data": {
