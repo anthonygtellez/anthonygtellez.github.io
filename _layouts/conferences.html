@@ -3,10 +3,9 @@ layout: page
 ---
 
 {%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source -%}
-{% assign sorted_page_articles_data_source = (_page_articles_data_source | sort: 'date') | reverse %}
 
-{%- if sorted_page_articles_data_source -%}
-{%- assign _keys = sorted_page_articles_data_source  -%}
+{%- if _page_articles_data_source -%}
+{%- assign _keys = _page_articles_data_source | split: '.' -%}
 {%- endif -%}
 
 {%- assign _articles = nil -%}
