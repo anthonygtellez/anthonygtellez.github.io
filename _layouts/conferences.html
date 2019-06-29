@@ -2,7 +2,7 @@
 layout: page
 ---
 
-{%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source -%}
+{%- assign _page_articles_data_source = page.articles.data_source | default: layout.articles.data_source |  sort: 'date'-%}
 
 {%- if _page_articles_data_source -%}
 {%- assign _keys = _page_articles_data_source | split: '.' -%}
