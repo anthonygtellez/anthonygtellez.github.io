@@ -1,5 +1,5 @@
 ---
-title: Bsides Brisbane - Beyond The Hype&#58; Machine Learing for Security
+title: Bsides Brisbane - Beyond The Hype&#58; Machine Learning for Security
 tags: MachineLearning Security DataScience Splunk Ransomware Conference Video Bsides
 layout: article
 mathjax: true
