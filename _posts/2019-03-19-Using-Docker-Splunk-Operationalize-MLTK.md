@@ -34,9 +34,7 @@ More information on the officially supported Docker image can be found at [Docke
 
 Using the following command syntax, more advanced environmental variables will allow you to pre-install apps into the container running Splunk Enterprise.
 
-```
-$ docker run -d -p 8000:8000 -e 'SPLUNK_START_ARGS=--accept-license' -e 'SPLUNK_PASSWORD=splunk123' -e SPLUNK_APPS_URL=https://splunkbase.splunk.com/app/2882/release/1.3/download,https://splunkbase.splunk.com/app/2890/release/4.1.0/download  -e SPLUNKBASE_USERNAME=<redacted@domain.com> -e SPLUNKBASE_PASSWORD=<redacted> splunk/splunk:latest
-```
+`$ docker run -d -p 8000:8000 -e 'SPLUNK_START_ARGS=--accept-license' -e 'SPLUNK_PASSWORD=splunk123' -e SPLUNK_APPS_URL=https://splunkbase.splunk.com/app/2882/release/1.3/download,https://splunkbase.splunk.com/app/2890/release/4.1.0/download  -e SPLUNKBASE_USERNAME=<redacted@domain.com> -e SPLUNKBASE_PASSWORD=<redacted> splunk/splunk:latest`
 
 In the above example there are two parameters that will need to be changed:
 
