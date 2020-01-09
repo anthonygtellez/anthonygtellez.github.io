@@ -1,6 +1,6 @@
 ---
 title:  Creating Custom Custom Containers for the Deep Learning Toolkit
-tags: MachineLearning Security DataScience Splunk DeepLearning Blog
+tags: MachineLearning Security DataScience Splunk DeepLearning Blogs
 layout: article
 mathjax: true
 date: 2020-01-10

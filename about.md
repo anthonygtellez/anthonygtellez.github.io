@@ -20,7 +20,7 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
 ## EXPERIENCE
 ``` chart
 {
-  "type": "polarArea",
+  "type": "line",
   "data": {
     "labels": [
       "Splunk",
