@@ -47,8 +47,8 @@ rapidsai)
 ```
 
 Changes to the Dockerfile
-Remove the RUN pip install 
-Replace with conda’s syntax:
+- Remove the RUN pip install 
+- Replace with conda’s syntax:
 
 ```
 # Installing packages
