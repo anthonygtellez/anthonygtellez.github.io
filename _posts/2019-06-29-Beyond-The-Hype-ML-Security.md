@@ -1,6 +1,6 @@
 ---
 title: Bsides Brisbane - Beyond The Hype&#58; Machine Learning for Security
-tags: MachineLearning Security DataScience Splunk Ransomware Conference Video Bsides
+tags: MachineLearning Security DataScience Splunk Ransomware Conference  Bsides
 layout: article
 mathjax: true
 date: 2019-06-29
@@ -11,4 +11,3 @@ Anthony is a data scientist at Splunk and will give an overview of ML & AI Conce
 
 
 [Slides](http://tellez.sfo2.digitaloceanspaces.com/Tellez_Beyond_The_Hype_ML_AI_Security.pdf){:.button.button--primary.button--rounded.button--lg}
-[Video](none){:.button.button--primary.button--rounded.button--lg}

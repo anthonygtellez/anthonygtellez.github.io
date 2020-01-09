@@ -1,6 +1,6 @@
 ---
 title: Configure Jupyter Notebook to Interact with Splunk Enterprise & the Splunk Machine Learning Toolkit
-tags: MachineLearning Security DataScience Splunk Docker Jupyter Python
+tags: MachineLearning Security DataScience Splunk Docker Jupyter Python Blog
 layout: article
 mathjax: true
 date: 2019-04-25

@@ -1,6 +1,6 @@
 ---
 title: Using Docker and Splunk to Operationalize the Splunk Machine Learning Toolkit
-tags: MachineLearning Security DataScience Splunk Docker
+tags: MachineLearning Security DataScience Splunk Docker Blog
 layout: article
 mathjax: true
 date: 2019-03-19
