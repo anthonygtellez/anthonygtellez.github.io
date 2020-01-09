@@ -11,13 +11,6 @@ article_header:
   background_image:
     gradient: 'linear-gradient(135deg, rgba(34, 139, 87 , .4), rgba(139, 34, 139, .4))'
     src: http://tellez.sfo2.digitaloceanspaces.com/john_snow_tokyo_tellez_bio.jpg
-articles:
-  data_source: site.posts
-  article_type: BlogPosting
-  show_cover: false
-  show_excerpt: true
-  show_readmore: true
-  show_info: true
 ---
 
 ## SUMMARY
@@ -27,7 +20,7 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
 ## EXPERIENCE
 ``` chart
 {
-  "type": "line",
+  "type": "bar",
   "data": {
     "labels": [
       "Splunk",
