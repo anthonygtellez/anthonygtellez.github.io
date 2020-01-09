@@ -15,7 +15,7 @@ All of the containers provide a base install of Jupyter Lab & Tensorboard to hel
 https://www.rtinsights.com/top-deep-learning-tools/
 
 
-DLTK Container Repository
+## DLTK Container Repository
 The DLTK container repository can be accessed on github: [https://github.com/splunk/splunk-mltk-container-docker](https://github.com/splunk/splunk-mltk-container-docker) and the first step in creating a custom container is to copy this repository to your local development environment. 
 
 `$ git clone https://github.com/splunk/splunk-mltk-container-docker`
@@ -23,22 +23,22 @@ The DLTK container repository can be accessed on github: [https://github.com/spl
 Reviewing the README.md provides context on the different flavors available for building a base image. These are sorted into tags like tf-cpu, pytorch and match up with the` build.sh` located in the root of the splunk-mltk-container-docker directory. 
 
 There are some key things to note:
-The bases in the build.sh use official images from tensorflow/tensorflow on DockerHub
-The Dockerfile uses pip to install new libraries to customize the image
+- The bases in the build.sh use official images from tensorflow/tensorflow on DockerHub
+- The Dockerfile uses pip to install new libraries to customize the image
 
 Creating an image uses the following syntax:
 `$ ./build.sh tf-cpu your_local_docker_repo/`
 
-Creating a Custom Image:
+## Creating a Custom Image:
 In this example guide we are going to create a custom container to install the Nvidia Rapids Framework [rapids.ai]. You can think of these libraries as similar to the libraries that ship with the Machine Learning Toolkit, but capable of running on Nvidia GPUs. 
 
 In order to create this rapids container, we have to modify a few files in the repository. 
 Specifically:
-Build.sh to support a new tag
+`Build.sh` to support a new tag
 Dockerfile to use conda install instead of pip
-Bootstrap.sh  to adjust the startup of the container for virtual environments
+`Bootstrap.sh`  to adjust the startup of the container for virtual environments
 
-The change to build.sh is fairly simple, insert the following line after the nlp section:
+The change to `build.sh` is fairly simple, insert the following line after the nlp section:
 
 ```	
 rapidsai)
@@ -79,7 +79,7 @@ Changes to `bootstrap.sh`
 source activate rapids
 ```
 
-Building the Custom Image
+## Building the Custom Image
 If the Splunk installation is on the same machine it is not required to set up DockerHub. If the machine you plan to deploy DLTK & the custom image is in the cloud or a different environment it’s recommended to configure docker hub to easily create, manage and deploy docker images. 
 You can use the following guide to configure [DockerHub] (https://docs.docker.com/docker-hub/) in your development environment. 
 
