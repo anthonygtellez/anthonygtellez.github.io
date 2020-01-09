@@ -50,7 +50,7 @@ Changes to the Dockerfile
 Remove the RUN pip install 
 Replace with conda’s syntax:
 
-
+```
 # Installing packages
 RUN pip install Flask
 RUN pip install h5py
@@ -62,6 +62,7 @@ RUN pip install shap
 RUN pip install lime
 RUN pip install matplotlib
 RUN pip install networkx
+```
 
 ```
 RUN conda install -n rapids jupyterlab flask h5py tensorboard nb_conda
