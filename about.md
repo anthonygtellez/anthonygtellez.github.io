@@ -53,7 +53,15 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
       }
     ]
   },
-  "options": {}
+  options: {
+    scales: {
+        yAxes: [{
+            ticks: {
+                beginAtZero: true
+            }
+        }]
+    }
+}
 }
 ```
 ### SPLUNK INC.  
