@@ -81,7 +81,7 @@ source activate rapids
 
 ## Building the Custom Image
 If the Splunk installation is on the same machine it is not required to set up DockerHub. If the machine you plan to deploy DLTK & the custom image is in the cloud or a different environment it’s recommended to configure docker hub to easily create, manage and deploy docker images. 
-You can use the following guide to configure [DockerHub] (https://docs.docker.com/docker-hub/) in your development environment. 
+You can use the following guide to configure [DockerHub](https://docs.docker.com/docker-hub/) in your development environment. 
 
 You can use a variation of the following command to create your own custom image:
 `$ ./build.sh rapidsai docker_repo_name/`
@@ -138,4 +138,4 @@ Hopefully with this new framework customers are able to make use of the DLTK to 
 
 For more background on the DLTK if you missed the session check out the .conf website:
 FN1409 - Advances in Deep Learning with the MLTK Container for TensorFlow 2.0, PyTorch and Jupyter Notebooks
-https://conf.splunk.com/watch/conf-online.html?search=%20Tellez%20Deep%20Learning#/
+[https://conf.splunk.com/watch/conf-online.html?search=%20Tellez%20Deep%20Learning#/](https://conf.splunk.com/watch/conf-online.html?search=%20Tellez%20Deep%20Learning#/)
