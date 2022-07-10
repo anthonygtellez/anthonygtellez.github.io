@@ -6,7 +6,27 @@ mathjax: true
 date: 2022-06-28
 ---
 
-BlockFi is a cryptocurrency platform that allows its clients to grow wealth through various financial products capabilities, including loans, trading and interest accounts. The safety of our client's assets and personal information is taken very seriously by the security operations team. In this session, we will showcase how BlockFI uses Splunk to identify operational risks and ensure the safety of client assets leveraging different machine learning techniques such as anomaly detection, forecasting and graph analytics. We will demonstrate fraud identification, account takeover and data mining using graphs to ensure client safety. Additionally, we will showcase how to improve ML operations using summarization and feature development.
+Introduction to BlockFi and what we do as a crypto company.
+Our journey with Databricks:
+- Building a cross functional ML team
+- Scoping business problems to get executive buy in
+- Conveying a strategic vision for ML at your organization
+- Operationalizing ML & Data Science to solve business challenges
+- Building clear business objectives for your ML Projects
+
+Blockchain Analytics for security and risk identification
+- Unique security problems in crypto
+- Estimated costs of fraud, account take over, and possible regulatory fines (eg: OFAC Sanctioned entities)
+- Graph theory and blockchain analysis problems at scale
+- Using Nvidia Rapids, Apache Arrow & Graphistry with Databricks
+- Onboarding business teams into Databricks for collaboration
+
+Using ML to improve platform stability and ITOps
+- Crypto never sleeps: 24x7 trading
+- Cost of an outage
+- Forecasting techniques and libraries + tradeoffs (simple regression, prophet, sarimax)
+- Integrating non-traditional indicators/features to forecast IT infrastructure and platform behaviors
+- Operationalizing predictions for early warning to O11y tools l
 
 [Slides](https://tellez.sfo2.digitaloceanspaces.com/Tellez_DAIS_ML_from_Zero_Final.pdf){:.button.button--primary.button--rounded.button--lg}
 
