@@ -23,6 +23,7 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
   "type": "bar",
   "data": {
     "labels": [
+      "BlockFi",
       "Splunk",
       "Tesla Government",
       "Enhesa",
@@ -33,6 +34,7 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
     "datasets": [
       {
         "data": [
+          1,
           5,
           1,
           1,
@@ -64,9 +66,16 @@ Enthusiastic and resourceful field data scientist, specializing in security anal
 }
 }
 ```
+
+### BLOCKFI INC.  
+ Phoenix, AZ  
+ Head of Machine Learning, Sr. Security Architect, Machine Learning & AI January 2022 – Present  
+ Machine Learning & AI Lead, Security Architect April 2021 – January 2022  
+
 ### SPLUNK INC.  
  Phoenix, AZ  
- Staff Data Scientist, SE Architect, Machine Learning & AI July 2018 – Present  
+ Principal ML Architect, SE Architect, Machine Learning & AI January 2021 – April 2021 
+ Staff Data Scientist, SE Architect, Machine Learning & AI July 2018 – January 2021  
  Lead Data Scientist, Product, Machine Learning & Business Analytics August 2017 – June 2018  
  Senior Consultant, Software Implementation, Security & Analytics October 2014 – July 2017  
 
@@ -83,9 +92,14 @@ Data Products IT Manager, Product Development October 2011 – September 2013
 ### Bachelor of Arts in Political Science May 2010  
 Wabash College, Crawfordsville, Indiana
 
+### Data Analytics May 2018  
+Western Governors University, Salt Lake City, Utah 
+23 Credits towards Masters
+
 ## OPEN SOURCE PROJECTS
 GITHUB  
 @Anthonygtellez  
+
 ### Mirai-WannaCry, Mirai-WannaCry.tgz  
 Application with Netflow and Linux OS data from a honeypot in operation during the height of the Mirai & WannaCry attacks  
 ### Add-on for Suricata, TA-Suricata  
