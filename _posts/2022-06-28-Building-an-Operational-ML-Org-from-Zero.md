@@ -1,6 +1,6 @@
 ---
 title:  Building an Operational Machine Learning Organization from Zero and Leveraging ML for Crypto Security
-tags: MachineLearning Security DataScience Splunk DeepLearning Blogs
+tags: MachineLearning Security DataScience Databricks Crypto Graphs Blockchain Conference
 layout: article
 mathjax: true
 date: 2022-06-28
