@@ -28,6 +28,5 @@ Using ML to improve platform stability and ITOps
 - Integrating non-traditional indicators/features to forecast IT infrastructure and platform behaviors
 - Operationalizing predictions for early warning to O11y tools l
 
+[Video](https://dataaisummit.com/login){:.button.button--primary.button--rounded.button--lg} 
 [Slides](https://tellez.sfo2.digitaloceanspaces.com/Tellez_DAIS_ML_from_Zero_Final.pdf){:.button.button--primary.button--rounded.button--lg}
-
-![Watch on Demand]Watch on Demand(https://dataaisummit.com/login)
